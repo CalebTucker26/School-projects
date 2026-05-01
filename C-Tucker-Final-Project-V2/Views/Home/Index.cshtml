@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<style>
+    body, html {
+        height: 100%;
+        margin: 0;
+        background-color: #121212;
+        color: white;
+    }
+
+    .screen {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .main-box {
+        width: min(80vh, 600px);
+        height: min(80vh, 600px);
+        border: 2px solid #444;
+        background-color: #1a002b;
+        border-radius: 16px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+    }
+
+    .card-row {
+        display: flex;
+        gap: 40px;
+    }
+
+    .menu-card {
+        width: 180px;
+        height: 180px;
+        background-color: #ff9f43;
+        border: 2px solid #444;
+        border-radius: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+        transition: 0.2s ease-in-out;
+    }
+
+        .menu-card:hover {
+            transform: scale(1.08);
+            background-color: #333;
+        }
+
+    .title {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+</style>
+
+<div class="screen">
+    <div class="main-box">
+
+        <div class="title">Trivia Game</div>
+
+        <div class="card-row">
+
+            <!-- Start Game -->
+            <a asp-controller="Home" asp-action="StartGame" class="menu-card">
+                Start Trivia Game
+            </a>
+
+            <!-- Leaderboard -->
+            <a asp-controller="Home" asp-action="LeaderBoard" class="menu-card">
+                Leaderboard
+            </a>
+
+        </div>
+
+    </div>
+</div>

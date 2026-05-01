@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\views\\home\\question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:views\\home\\question.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\models\\triviagamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:models\\triviagamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\models\\triviaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:models\\triviaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\models\\triviaquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:models\\triviaquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\models\\triviaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:models\\triviaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\c-tucker-final-project-v2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:c-tucker-final-project-v2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\views\\login\\loginview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:views\\login\\loginview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\models\\leaderboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:models\\leaderboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|c:\\users\\caleb\\source\\repos\\cpt-206-advanced-event-driven-programming\\c-tucker-final-project-v2\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D354C9-3AA6-6524-8497-0C74E659B445}|C-Tucker-Final-Project-V2.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Views\\Home\\Question.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Question.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Views\\Home\\Question.cshtml",
+              "RelativeToolTip": "Views\\Home\\Question.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-30T00:11:48.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T00:10:57.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "C-Tucker-Final-Project-V2.csproj",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\C-Tucker-Final-Project-V2.csproj",
+              "RelativeDocumentMoniker": "C-Tucker-Final-Project-V2.csproj",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\C-Tucker-Final-Project-V2.csproj",
+              "RelativeToolTip": "C-Tucker-Final-Project-V2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T00:05:19.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TriviaService.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\TriviaService.cs",
+              "RelativeDocumentMoniker": "Models\\TriviaService.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\TriviaService.cs",
+              "RelativeToolTip": "Models\\TriviaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T00:05:53.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TriviaQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\TriviaQuestion.cs",
+              "RelativeDocumentMoniker": "Models\\TriviaQuestion.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\TriviaQuestion.cs",
+              "RelativeToolTip": "Models\\TriviaQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T00:05:33.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriviaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\TriviaResponse.cs",
+              "RelativeDocumentMoniker": "Models\\TriviaResponse.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\TriviaResponse.cs",
+              "RelativeToolTip": "Models\\TriviaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T00:05:05.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T22:26:45.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginView.cshtml",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Views\\Login\\LoginView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\LoginView.cshtml",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Views\\Login\\LoginView.cshtml",
+              "RelativeToolTip": "Views\\Login\\LoginView.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T22:26:27.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:25:06.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriviaGameState.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\TriviaGameState.cs",
+              "RelativeDocumentMoniker": "Models\\TriviaGameState.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\TriviaGameState.cs",
+              "RelativeToolTip": "Models\\TriviaGameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:24:55.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:24:45.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogInModel.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\LogInModel.cs",
+              "RelativeDocumentMoniker": "Models\\LogInModel.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\LogInModel.cs",
+              "RelativeToolTip": "Models\\LogInModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:24:34.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaderboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\LeaderboardViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LeaderboardViewModel.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Models\\LeaderboardViewModel.cs",
+              "RelativeToolTip": "Models\\LeaderboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:24:30.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAxwHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T22:24:00.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\caleb\\source\\repos\\CPT-206-Advanced-Event-Driven-Programming\\C-Tucker-Final-Project-V2\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCAAAACpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T23:03:27.777Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

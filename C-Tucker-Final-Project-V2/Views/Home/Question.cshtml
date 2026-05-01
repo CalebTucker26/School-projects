@@ -1,0 +1,97 @@
+﻿@using C_Tucker_Final_Project_V2.Models
+@using System.Text.Json
+
+@{
+    var gameJson = Context.Session.GetString("GameState");
+    var game = gameJson == null
+        ? new TriviaGameState()
+        : JsonSerializer.Deserialize<TriviaGameState>(gameJson);
+}
+
+@{
+    ViewData["Title"] = "Trivia Question";
+}
+
+<style>
+    body {
+        background-color: #2b1b3f; /* midnight purple */
+        color: white;
+    }
+
+    .game-container {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .score-box {
+        position: absolute;
+        top: 60px;
+        left: 0px;
+        background: #ffb347; /* soft orange */
+        padding: 10px 15px;
+        border-radius: 10px;
+        font-weight: bold;
+        color: black;
+    }
+
+    .question-card {
+        background: #ffb347; /* soft orange */
+        color: black;
+        padding: 25px;
+        border-radius: 15px;
+        width: 600px;
+        text-align: center;
+        box-shadow: 0px 8px 20px rgba(0,0,0,0.3);
+    }
+
+    .answer-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+        margin-top: 20px;
+    }
+
+    .answer-btn {
+        border: none;
+        padding: 15px;
+        border-radius: 10px;
+        background: white;
+        font-weight: bold;
+        cursor: pointer;
+        transition: 0.2s;
+    }
+
+        .answer-btn:hover {
+            transform: scale(1.05);
+            background: #f0f0f0;
+        }
+</style>
+
+<div class="score-box">
+    Score: @game.score
+</div>
+
+<div class="game-container">
+
+    <div class="question-card">
+        <h3>@Model.question</h3>
+
+        <form asp-action="SubmitAnswer" method="post">
+            <div class="answer-grid">
+
+                @foreach (var answer in Model.Answers)
+                {
+                    <button class="answer-btn" type="submit" name="selectedAnswer" value="@answer">
+                        @answer
+                    </button>
+                }
+
+            </div>
+        </form>
+
+    </div>
+
+</div>

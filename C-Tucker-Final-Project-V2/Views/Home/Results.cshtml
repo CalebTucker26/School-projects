@@ -1,0 +1,53 @@
+﻿@model C_Tucker_Final_Project_V2.Models.TriviaGameState
+
+@{
+    ViewData["Title"] = "Game Results";
+}
+
+<style>
+    body {
+        background-color: #2b1b3f;
+        color: white;
+    }
+
+    .result-container {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .result-card {
+        background: #ffb347;
+        color: black;
+        padding: 30px;
+        border-radius: 15px;
+        text-align: center;
+        width: 400px;
+    }
+
+    .btn-restart {
+        margin-top: 15px;
+        padding: 10px 20px;
+        background: white;
+        border: none;
+        border-radius: 8px;
+        font-weight: bold;
+    }
+</style>
+
+<div class="result-container">
+
+    <div class="result-card">
+        <h2>Quiz Complete!</h2>
+
+        <h3>Your Score:</h3>
+        <h1>@Model.score</h1>
+
+        <a asp-action="StartGame" class="btn-restart">
+            Play Again
+        </a>
+    </div>
+
+</div>

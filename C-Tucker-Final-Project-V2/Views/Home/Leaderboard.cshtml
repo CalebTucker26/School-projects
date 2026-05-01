@@ -1,0 +1,66 @@
+﻿@model List<C_Tucker_Final_Project_V2.Models.LeaderboardViewModel>
+
+@{
+    ViewData["Title"] = "Leaderboard";
+}
+
+<style>
+    body {
+        background-color: #2b1b3f;
+        color: white;
+    }
+
+    .board-container {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .board {
+        background: #ffb347;
+        color: black;
+        padding: 30px;
+        border-radius: 15px;
+        width: 500px;
+        text-align: center;
+    }
+
+    .score-row {
+        display: flex;
+        justify-content: space-between;
+        padding: 8px;
+        border-bottom: 1px solid rgba(0,0,0,0.2);
+    }
+
+    .title {
+        font-size: 24px;
+        margin-bottom: 15px;
+    }
+</style>
+
+<div class="board-container">
+    <div class="board">
+
+        <div class="title">🏆 Leaderboard</div>
+
+        @if (!Model.Any())
+        {
+            <p>No scores yet.</p>
+        }
+        else
+        {
+            @foreach (var item in Model)
+            {
+                <div class="score-row">
+                    <span>@item.Email</span>
+                    <span>@item.Score</span>
+                </div>
+            }
+        }
+
+        <br />
+        <a asp-controller="Home" asp-action="Index">Back</a>
+
+    </div>
+</div>
